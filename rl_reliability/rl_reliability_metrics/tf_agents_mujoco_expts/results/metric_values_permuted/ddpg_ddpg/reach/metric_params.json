@@ -1,0 +1,1 @@
+{"IqrAcrossRuns": {"lowpass_thresh": 0.01, "eval_points": [20000, 40000, 60000, 80000, 99900], "window_size": 10000, "baseline": "curve_range"}, "LowerCVaROnAcross": {"target": "across", "tail": "lower", "alpha": 0.05, "baseline": "curve_range", "lowpass_thresh": 0.01, "eval_points": [20000, 40000, 60000, 80000, 99900], "window_size": 10000}}
